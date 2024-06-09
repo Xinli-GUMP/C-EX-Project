@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "bin",
+					"jsonFile" : "directory-bin-Debug-f3d43338f5b00141aaba.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "test",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "Computer_room_booking_system",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ComputerRoom_booking::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ComputerRoom_booking-Debug-e6d600335d6a084b8078.json",
+					"name" : "ComputerRoom_booking",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "testExecutable::@90a2315b7a9c97cd24d2",
+					"jsonFile" : "target-testExecutable-Debug-ea880145835849171f7b.json",
+					"name" : "testExecutable",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/Documents/C++/MyProjects/Computer_room_booking_system/build",
+		"source" : "F:/Documents/C++/MyProjects/Computer_room_booking_system"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

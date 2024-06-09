@@ -1,0 +1,38 @@
+[
+{
+  "directory": "F:/Documents/C++/MyProjects/Employee_management_system/build",
+  "command": "C:\\Compiler\\mingw64\\bin\\g++.exe -DUNICODE -D_UNICODE @CMakeFiles/Employee_management_system.dir/includes_CXX.rsp -g -std=gnu++17   -std=c++17 -finput-charset=UTF-8 -o CMakeFiles\\Employee_management_system.dir\\Boss.cpp.obj -c F:\\Documents\\C++\\MyProjects\\Employee_management_system\\Boss.cpp",
+  "file": "F:/Documents/C++/MyProjects/Employee_management_system/Boss.cpp",
+  "output": "CMakeFiles/Employee_management_system.dir/Boss.cpp.obj"
+},
+{
+  "directory": "F:/Documents/C++/MyProjects/Employee_management_system/build",
+  "command": "C:\\Compiler\\mingw64\\bin\\g++.exe -DUNICODE -D_UNICODE @CMakeFiles/Employee_management_system.dir/includes_CXX.rsp -g -std=gnu++17   -std=c++17 -finput-charset=UTF-8 -o CMakeFiles\\Employee_management_system.dir\\Employee.cpp.obj -c F:\\Documents\\C++\\MyProjects\\Employee_management_system\\Employee.cpp",
+  "file": "F:/Documents/C++/MyProjects/Employee_management_system/Employee.cpp",
+  "output": "CMakeFiles/Employee_management_system.dir/Employee.cpp.obj"
+},
+{
+  "directory": "F:/Documents/C++/MyProjects/Employee_management_system/build",
+  "command": "C:\\Compiler\\mingw64\\bin\\g++.exe -DUNICODE -D_UNICODE @CMakeFiles/Employee_management_system.dir/includes_CXX.rsp -g -std=gnu++17   -std=c++17 -finput-charset=UTF-8 -o CMakeFiles\\Employee_management_system.dir\\Manager.cpp.obj -c F:\\Documents\\C++\\MyProjects\\Employee_management_system\\Manager.cpp",
+  "file": "F:/Documents/C++/MyProjects/Employee_management_system/Manager.cpp",
+  "output": "CMakeFiles/Employee_management_system.dir/Manager.cpp.obj"
+},
+{
+  "directory": "F:/Documents/C++/MyProjects/Employee_management_system/build",
+  "command": "C:\\Compiler\\mingw64\\bin\\g++.exe -DUNICODE -D_UNICODE @CMakeFiles/Employee_management_system.dir/includes_CXX.rsp -g -std=gnu++17   -std=c++17 -finput-charset=UTF-8 -o CMakeFiles\\Employee_management_system.dir\\WorkerManager.cpp.obj -c F:\\Documents\\C++\\MyProjects\\Employee_management_system\\WorkerManager.cpp",
+  "file": "F:/Documents/C++/MyProjects/Employee_management_system/WorkerManager.cpp",
+  "output": "CMakeFiles/Employee_management_system.dir/WorkerManager.cpp.obj"
+},
+{
+  "directory": "F:/Documents/C++/MyProjects/Employee_management_system/build",
+  "command": "C:\\Compiler\\mingw64\\bin\\g++.exe -DUNICODE -D_UNICODE @CMakeFiles/Employee_management_system.dir/includes_CXX.rsp -g -std=gnu++17   -std=c++17 -finput-charset=UTF-8 -o CMakeFiles\\Employee_management_system.dir\\file_operator.cpp.obj -c F:\\Documents\\C++\\MyProjects\\Employee_management_system\\file_operator.cpp",
+  "file": "F:/Documents/C++/MyProjects/Employee_management_system/file_operator.cpp",
+  "output": "CMakeFiles/Employee_management_system.dir/file_operator.cpp.obj"
+},
+{
+  "directory": "F:/Documents/C++/MyProjects/Employee_management_system/build",
+  "command": "C:\\Compiler\\mingw64\\bin\\g++.exe -DUNICODE -D_UNICODE @CMakeFiles/Employee_management_system.dir/includes_CXX.rsp -g -std=gnu++17   -std=c++17 -finput-charset=UTF-8 -o CMakeFiles\\Employee_management_system.dir\\main.cpp.obj -c F:\\Documents\\C++\\MyProjects\\Employee_management_system\\main.cpp",
+  "file": "F:/Documents/C++/MyProjects/Employee_management_system/main.cpp",
+  "output": "CMakeFiles/Employee_management_system.dir/main.cpp.obj"
+}
+]
