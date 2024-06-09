@@ -1,5 +1,5 @@
-.cache\
-build\
-.vscode\
-CMakeFiles\
-.vcode\
+.cache/
+build/
+.vscode/
+CMakeFiles/
+.vcode/
