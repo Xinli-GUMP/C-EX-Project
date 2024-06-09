@@ -1,0 +1,5 @@
+aux_source_directory(${CMAKE_SOURCE_DIR}/src SRC_LIST)
+list(REMOVE_ITEM SRC_LIST ${CMAKE_SOURCE_DIR}/src/main.cpp)
+add_executable(testExecutable ${SRC_LIST}  test.cpp)
+# 添加测试项
+add_test(NAME myTest COMMAND testExecutable)

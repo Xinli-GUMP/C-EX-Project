@@ -1,0 +1,3 @@
+C:\cmake-3.27.5-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\Employee_management_system.dir/objects.a
+C:\Compiler\mingw64\bin\ar.exe qc CMakeFiles\Employee_management_system.dir/objects.a @CMakeFiles\Employee_management_system.dir\objects1.rsp
+C:\Compiler\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Employee_management_system.dir/objects.a -Wl,--no-whole-archive -o Employee_management_system.exe -Wl,--out-implib,libEmployee_management_system.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Employee_management_system.dir\linkLibs.rsp

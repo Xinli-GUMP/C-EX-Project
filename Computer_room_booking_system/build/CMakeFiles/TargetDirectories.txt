@@ -1,0 +1,8 @@
+F:/Documents/C++/MyProjects/Computer_room_booking_system/build/CMakeFiles/ComputerRoom_booking.dir
+F:/Documents/C++/MyProjects/Computer_room_booking_system/build/CMakeFiles/test.dir
+F:/Documents/C++/MyProjects/Computer_room_booking_system/build/CMakeFiles/edit_cache.dir
+F:/Documents/C++/MyProjects/Computer_room_booking_system/build/CMakeFiles/rebuild_cache.dir
+F:/Documents/C++/MyProjects/Computer_room_booking_system/build/bin/CMakeFiles/testExecutable.dir
+F:/Documents/C++/MyProjects/Computer_room_booking_system/build/bin/CMakeFiles/test.dir
+F:/Documents/C++/MyProjects/Computer_room_booking_system/build/bin/CMakeFiles/edit_cache.dir
+F:/Documents/C++/MyProjects/Computer_room_booking_system/build/bin/CMakeFiles/rebuild_cache.dir

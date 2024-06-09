@@ -1,0 +1,3 @@
+C:\cmake-3.27.5-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\ComputerRoom_booking.dir/objects.a
+C:\Compiler\mingw64\bin\ar.exe qc CMakeFiles\ComputerRoom_booking.dir/objects.a @CMakeFiles\ComputerRoom_booking.dir\objects1.rsp
+C:\Compiler\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ComputerRoom_booking.dir/objects.a -Wl,--no-whole-archive -o bin\ComputerRoom_booking.exe -Wl,--out-implib,libComputerRoom_booking.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ComputerRoom_booking.dir\linkLibs.rsp
