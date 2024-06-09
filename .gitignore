@@ -1,4 +1,4 @@
-.cache
-build
-.vscode
-CMakeFiles
+.cache\
+build\
+.vscode\
+CMakeFiles\
