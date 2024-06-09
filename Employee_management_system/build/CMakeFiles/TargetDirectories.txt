@@ -1,3 +1,0 @@
-F:/Documents/C++/MyProjects/Employee_management_system/build/CMakeFiles/Employee_management_system.dir
-F:/Documents/C++/MyProjects/Employee_management_system/build/CMakeFiles/edit_cache.dir
-F:/Documents/C++/MyProjects/Employee_management_system/build/CMakeFiles/rebuild_cache.dir

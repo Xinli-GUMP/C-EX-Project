@@ -1,3 +1,0 @@
-C:\cmake-3.27.5-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\Spech_Competition.dir/objects.a
-C:\Compiler\mingw64\bin\ar.exe qc CMakeFiles\Spech_Competition.dir/objects.a @CMakeFiles\Spech_Competition.dir\objects1.rsp
-C:\Compiler\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Spech_Competition.dir/objects.a -Wl,--no-whole-archive -o bin\Spech_Competition.exe -Wl,--out-implib,libSpech_Competition.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Spech_Competition.dir\linkLibs.rsp
