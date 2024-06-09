@@ -1,3 +1,0 @@
-C:\cmake-3.27.5-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\testExecutable.dir/objects.a
-C:\Compiler\mingw64\bin\ar.exe qc CMakeFiles\testExecutable.dir/objects.a @CMakeFiles\testExecutable.dir\objects1.rsp
-C:\Compiler\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\testExecutable.dir/objects.a -Wl,--no-whole-archive -o testExecutable.exe -Wl,--out-implib,libtestExecutable.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\testExecutable.dir\linkLibs.rsp
