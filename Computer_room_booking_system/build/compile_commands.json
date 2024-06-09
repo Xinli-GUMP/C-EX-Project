@@ -1,0 +1,86 @@
+[
+{
+  "directory": "F:/Documents/C++/MyProjects/Computer_room_booking_system/build",
+  "command": "C:\\Compiler\\mingw64\\bin\\g++.exe -DUNICODE -D_UNICODE @CMakeFiles/ComputerRoom_booking.dir/includes_CXX.rsp -g -std=gnu++20   -std=c++20 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\ComputerRoom_booking.dir\\src\\admin.cpp.obj -c F:\\Documents\\C++\\MyProjects\\Computer_room_booking_system\\src\\admin.cpp",
+  "file": "F:/Documents/C++/MyProjects/Computer_room_booking_system/src/admin.cpp",
+  "output": "CMakeFiles/ComputerRoom_booking.dir/src/admin.cpp.obj"
+},
+{
+  "directory": "F:/Documents/C++/MyProjects/Computer_room_booking_system/build",
+  "command": "C:\\Compiler\\mingw64\\bin\\g++.exe -DUNICODE -D_UNICODE @CMakeFiles/ComputerRoom_booking.dir/includes_CXX.rsp -g -std=gnu++20   -std=c++20 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\ComputerRoom_booking.dir\\src\\file_operator.cpp.obj -c F:\\Documents\\C++\\MyProjects\\Computer_room_booking_system\\src\\file_operator.cpp",
+  "file": "F:/Documents/C++/MyProjects/Computer_room_booking_system/src/file_operator.cpp",
+  "output": "CMakeFiles/ComputerRoom_booking.dir/src/file_operator.cpp.obj"
+},
+{
+  "directory": "F:/Documents/C++/MyProjects/Computer_room_booking_system/build",
+  "command": "C:\\Compiler\\mingw64\\bin\\g++.exe -DUNICODE -D_UNICODE @CMakeFiles/ComputerRoom_booking.dir/includes_CXX.rsp -g -std=gnu++20   -std=c++20 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\ComputerRoom_booking.dir\\src\\main.cpp.obj -c F:\\Documents\\C++\\MyProjects\\Computer_room_booking_system\\src\\main.cpp",
+  "file": "F:/Documents/C++/MyProjects/Computer_room_booking_system/src/main.cpp",
+  "output": "CMakeFiles/ComputerRoom_booking.dir/src/main.cpp.obj"
+},
+{
+  "directory": "F:/Documents/C++/MyProjects/Computer_room_booking_system/build",
+  "command": "C:\\Compiler\\mingw64\\bin\\g++.exe -DUNICODE -D_UNICODE @CMakeFiles/ComputerRoom_booking.dir/includes_CXX.rsp -g -std=gnu++20   -std=c++20 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\ComputerRoom_booking.dir\\src\\manager.cpp.obj -c F:\\Documents\\C++\\MyProjects\\Computer_room_booking_system\\src\\manager.cpp",
+  "file": "F:/Documents/C++/MyProjects/Computer_room_booking_system/src/manager.cpp",
+  "output": "CMakeFiles/ComputerRoom_booking.dir/src/manager.cpp.obj"
+},
+{
+  "directory": "F:/Documents/C++/MyProjects/Computer_room_booking_system/build",
+  "command": "C:\\Compiler\\mingw64\\bin\\g++.exe -DUNICODE -D_UNICODE @CMakeFiles/ComputerRoom_booking.dir/includes_CXX.rsp -g -std=gnu++20   -std=c++20 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\ComputerRoom_booking.dir\\src\\order.cpp.obj -c F:\\Documents\\C++\\MyProjects\\Computer_room_booking_system\\src\\order.cpp",
+  "file": "F:/Documents/C++/MyProjects/Computer_room_booking_system/src/order.cpp",
+  "output": "CMakeFiles/ComputerRoom_booking.dir/src/order.cpp.obj"
+},
+{
+  "directory": "F:/Documents/C++/MyProjects/Computer_room_booking_system/build",
+  "command": "C:\\Compiler\\mingw64\\bin\\g++.exe -DUNICODE -D_UNICODE @CMakeFiles/ComputerRoom_booking.dir/includes_CXX.rsp -g -std=gnu++20   -std=c++20 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\ComputerRoom_booking.dir\\src\\student.cpp.obj -c F:\\Documents\\C++\\MyProjects\\Computer_room_booking_system\\src\\student.cpp",
+  "file": "F:/Documents/C++/MyProjects/Computer_room_booking_system/src/student.cpp",
+  "output": "CMakeFiles/ComputerRoom_booking.dir/src/student.cpp.obj"
+},
+{
+  "directory": "F:/Documents/C++/MyProjects/Computer_room_booking_system/build",
+  "command": "C:\\Compiler\\mingw64\\bin\\g++.exe -DUNICODE -D_UNICODE @CMakeFiles/ComputerRoom_booking.dir/includes_CXX.rsp -g -std=gnu++20   -std=c++20 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o CMakeFiles\\ComputerRoom_booking.dir\\src\\teacher.cpp.obj -c F:\\Documents\\C++\\MyProjects\\Computer_room_booking_system\\src\\teacher.cpp",
+  "file": "F:/Documents/C++/MyProjects/Computer_room_booking_system/src/teacher.cpp",
+  "output": "CMakeFiles/ComputerRoom_booking.dir/src/teacher.cpp.obj"
+},
+{
+  "directory": "F:/Documents/C++/MyProjects/Computer_room_booking_system/build/bin",
+  "command": "C:\\Compiler\\mingw64\\bin\\g++.exe -DUNICODE -D_UNICODE @CMakeFiles/testExecutable.dir/includes_CXX.rsp -g -std=gnu++20   -std=c++20 -o CMakeFiles\\testExecutable.dir\\__\\src\\admin.cpp.obj -c F:\\Documents\\C++\\MyProjects\\Computer_room_booking_system\\src\\admin.cpp",
+  "file": "F:/Documents/C++/MyProjects/Computer_room_booking_system/src/admin.cpp",
+  "output": "bin/CMakeFiles/testExecutable.dir/__/src/admin.cpp.obj"
+},
+{
+  "directory": "F:/Documents/C++/MyProjects/Computer_room_booking_system/build/bin",
+  "command": "C:\\Compiler\\mingw64\\bin\\g++.exe -DUNICODE -D_UNICODE @CMakeFiles/testExecutable.dir/includes_CXX.rsp -g -std=gnu++20   -std=c++20 -o CMakeFiles\\testExecutable.dir\\__\\src\\file_operator.cpp.obj -c F:\\Documents\\C++\\MyProjects\\Computer_room_booking_system\\src\\file_operator.cpp",
+  "file": "F:/Documents/C++/MyProjects/Computer_room_booking_system/src/file_operator.cpp",
+  "output": "bin/CMakeFiles/testExecutable.dir/__/src/file_operator.cpp.obj"
+},
+{
+  "directory": "F:/Documents/C++/MyProjects/Computer_room_booking_system/build/bin",
+  "command": "C:\\Compiler\\mingw64\\bin\\g++.exe -DUNICODE -D_UNICODE @CMakeFiles/testExecutable.dir/includes_CXX.rsp -g -std=gnu++20   -std=c++20 -o CMakeFiles\\testExecutable.dir\\__\\src\\manager.cpp.obj -c F:\\Documents\\C++\\MyProjects\\Computer_room_booking_system\\src\\manager.cpp",
+  "file": "F:/Documents/C++/MyProjects/Computer_room_booking_system/src/manager.cpp",
+  "output": "bin/CMakeFiles/testExecutable.dir/__/src/manager.cpp.obj"
+},
+{
+  "directory": "F:/Documents/C++/MyProjects/Computer_room_booking_system/build/bin",
+  "command": "C:\\Compiler\\mingw64\\bin\\g++.exe -DUNICODE -D_UNICODE @CMakeFiles/testExecutable.dir/includes_CXX.rsp -g -std=gnu++20   -std=c++20 -o CMakeFiles\\testExecutable.dir\\__\\src\\order.cpp.obj -c F:\\Documents\\C++\\MyProjects\\Computer_room_booking_system\\src\\order.cpp",
+  "file": "F:/Documents/C++/MyProjects/Computer_room_booking_system/src/order.cpp",
+  "output": "bin/CMakeFiles/testExecutable.dir/__/src/order.cpp.obj"
+},
+{
+  "directory": "F:/Documents/C++/MyProjects/Computer_room_booking_system/build/bin",
+  "command": "C:\\Compiler\\mingw64\\bin\\g++.exe -DUNICODE -D_UNICODE @CMakeFiles/testExecutable.dir/includes_CXX.rsp -g -std=gnu++20   -std=c++20 -o CMakeFiles\\testExecutable.dir\\__\\src\\student.cpp.obj -c F:\\Documents\\C++\\MyProjects\\Computer_room_booking_system\\src\\student.cpp",
+  "file": "F:/Documents/C++/MyProjects/Computer_room_booking_system/src/student.cpp",
+  "output": "bin/CMakeFiles/testExecutable.dir/__/src/student.cpp.obj"
+},
+{
+  "directory": "F:/Documents/C++/MyProjects/Computer_room_booking_system/build/bin",
+  "command": "C:\\Compiler\\mingw64\\bin\\g++.exe -DUNICODE -D_UNICODE @CMakeFiles/testExecutable.dir/includes_CXX.rsp -g -std=gnu++20   -std=c++20 -o CMakeFiles\\testExecutable.dir\\__\\src\\teacher.cpp.obj -c F:\\Documents\\C++\\MyProjects\\Computer_room_booking_system\\src\\teacher.cpp",
+  "file": "F:/Documents/C++/MyProjects/Computer_room_booking_system/src/teacher.cpp",
+  "output": "bin/CMakeFiles/testExecutable.dir/__/src/teacher.cpp.obj"
+},
+{
+  "directory": "F:/Documents/C++/MyProjects/Computer_room_booking_system/build/bin",
+  "command": "C:\\Compiler\\mingw64\\bin\\g++.exe -DUNICODE -D_UNICODE @CMakeFiles/testExecutable.dir/includes_CXX.rsp -g -std=gnu++20   -std=c++20 -o CMakeFiles\\testExecutable.dir\\test.cpp.obj -c F:\\Documents\\C++\\MyProjects\\Computer_room_booking_system\\test\\test.cpp",
+  "file": "F:/Documents/C++/MyProjects/Computer_room_booking_system/test/test.cpp",
+  "output": "bin/CMakeFiles/testExecutable.dir/test.cpp.obj"
+}
+]
